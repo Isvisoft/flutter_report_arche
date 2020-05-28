@@ -1,4 +1,4 @@
-library flutterreportarche;
+library flutter_report_arche;
 
 import 'dart:convert';
 import 'dart:io';
